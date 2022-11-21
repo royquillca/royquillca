@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on **mixIAcret**
+- 🔭 I’m currently working on **mixIAcret**. A personal project that helps civil engineers to design concrete easily and fast using AI.
 
 - 💬 Ask me about **Data Engineering, Data Scientist and Machine Learning**
 
