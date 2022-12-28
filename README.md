@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Engineering, Data Scientist and Machine Learning**
 
-- 📫 How to reach me **ccus.andy.quillca@gmail.com**
+- 📫 How to reach me **ccus.andy.quillca@gmail.com** | **roy.quillca@alumn.udep.edu.edu**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
