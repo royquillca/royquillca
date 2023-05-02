@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on **DaTaxi**, a team project. **DaTaxi** is a powerful tool for analyzing the daily operation and market trends of taxis in New York. It can project future indicators of the market's most significant trends, allowing for strategic decision-making that anticipates future events and helps increase profit margins against competitors..
+- 🔭 I’m currently working on **[DaTaxi](https://lucianolarrea-pf-ds-home-f5yrsh.streamlit.app/)**, a team project. **[DaTaxi](https://lucianolarrea-pf-ds-home-f5yrsh.streamlit.app/)** is a powerful tool for analyzing the daily operation and market trends of taxis in New York. It can project future indicators of the market's most significant trends, allowing for strategic decision-making that anticipates future events and helps increase profit margins against competitors..
 
 - 💬 Ask me about **Data Engineering, Data Scientist and Machine Learning**
 
