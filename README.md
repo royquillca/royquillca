@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on **mixIAcret**. A personal project that helps civil engineers to design concrete easily and fast using AI.
+- 🔭 I’m currently working on **DaTaxi**, a team project. **DaTaxi** is a powerful tool for analyzing the daily operation and market trends of taxis in New York. It can project future indicators of the market's most significant trends, allowing for strategic decision-making that anticipates future events and helps increase profit margins against competitors..
 
 - 💬 Ask me about **Data Engineering, Data Scientist and Machine Learning**
 
-- 📫 How to reach me **ccus.andy.quillca@gmail.com** | **roy.quillca@alumn.udep.edu.edu**
+- 📫 How to reach me **roquidata@gmail.com** | **royquillca@outlook.es**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
