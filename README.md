@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on **[Matu](https://github.com/roquidev/Matu)**, a team project. **[Matu](https://github.com/roquidev/Matu** is a tour package centralizer to facilitate tourists to have the best experience and agencies to offer their services in one place... The web platform is being developed with the django framework and is currently under construction...The web platform is being developed with the django framework and is currently under construction...
+- 🔭 I’m currently working on **[Matu](https://github.com/roquidev/Matu)**, a team project. **[Matu](https://github.com/roquidev/Matu)** is a tour package centralizer to facilitate tourists to have the best experience and agencies to offer their services in one place... The web platform is being developed with the django framework and is currently under construction...The web platform is being developed with the django framework and is currently under construction...
 
 - 💬 Ask me about **Data Engineering, Data Scientist, Machine Learning** and all about **Python**
 
