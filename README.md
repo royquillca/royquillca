@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on **[DaTaxi](https://lucianolarrea-pf-ds-home-f5yrsh.streamlit.app/)**, a team project. **[DaTaxi](https://lucianolarrea-pf-ds-home-f5yrsh.streamlit.app/)** is a powerful tool for analyzing the daily operation and market trends of taxis in New York. It can project future indicators of the market's most significant trends, allowing for strategic decision-making that anticipates future events and helps increase profit margins against competitors..
+- 🔭 I’m currently working on **[Matu](https://github.com/roquidev/Matu)**, a team project. **[Matu](https://github.com/roquidev/Matu** is a tour package centralizer to facilitate tourists to have the best experience and agencies to offer their services in one place... The web platform is being developed with the django framework and is currently under construction...The web platform is being developed with the django framework and is currently under construction...
 
-- 💬 Ask me about **Data Engineering, Data Scientist and Machine Learning**
+- 💬 Ask me about **Data Engineering, Data Scientist, Machine Learning** and all about **Python**
 
 - 📫 How to reach me **roquidata@gmail.com** | **royquillca@outlook.es**
+
+- 📌 You can also visit my secondary github repository to fin more projects that I'm developing on [roquidev](https://github.com/roquidev/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
