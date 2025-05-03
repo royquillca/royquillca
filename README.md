@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **[Matu](https://github.com/roquidev/Matu)**, a team project. **[Matu](https://github.com/roquidev/Matu)** is a tour package centralizer to facilitate tourists to have the best experience and agencies to offer their services just in one place... The web platform is being developed with the django framework and is currently under construction...The web platform is being developed with the django framework and is currently under construction...
 
-- 💬 Ask me about **Data Engineering, Data Scientist, Machine Learning** and all about **Python**
+- 💬 Ask me about **Data Engineering** and all about **Python**
 
-- 📫 How to reach me **roquidata@gmail.com** | **royquillca@outlook.es**
+- 📫 How to reach me **roquidata@gmail.com**
 
 - 📌 You can also visit my secondary github repository to fin more projects that I'm developing on [roquidev](https://github.com/roquidev/)
 
