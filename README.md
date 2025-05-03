@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on **[Matu](https://github.com/roquidev/Matu)**, a team project. **[Matu](https://github.com/roquidev/Matu)** is a tour package centralizer to facilitate tourists to have the best experience and agencies to offer their services just in one place... The web platform is being developed with the django framework and is currently under construction...The web platform is being developed with the django framework and is currently under construction...
+- 🔭 I’m currently working on **[Indra Peru](https://www.indracompany.com/)** as Data engineer for BBVA.
 
 - 💬 Ask me about **Data Engineering** and all about **Python**
 
-- 📫 How to reach me **roquidata@gmail.com**
+- 📫 How to reach me **roquidata@gmail.com** | [Linkedin](https://www.linkedin.com/in/royquillca/)
 
 - 📌 You can also visit my secondary github repository to fin more projects that I'm developing on [roquidev](https://github.com/roquidev/)
 
