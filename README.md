@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">A passionate Data Scientist from Peru 🇵🇪</h3>
+<h1 align="center">Hi, here Roy</h1>
+<h3 align="center">A passionate Data Engineer</h3>
 
-- 🔭 I’m currently working on **[Indra Peru](https://www.indracompany.com/)** as Data engineer for BBVA.
-
-- 💬 Ask me about **Data Engineering** and all about **Python**
-
-- 📫 How to reach me **roquidata@gmail.com** | [Linkedin](https://www.linkedin.com/in/royquillca/)
-
-- 📌 You can also visit my secondary github repository to fin more projects that I'm developing on [roquidev](https://github.com/roquidev/)
+- Currently working on **[Indra Peru](https://www.indracompany.com/)** as Data engineer for BBVA.
+- You can also visit my secondary github repository to fin more projects that I'm developing on [roquidev](https://github.com/roquidev/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
